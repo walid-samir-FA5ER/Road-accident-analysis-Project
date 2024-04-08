@@ -6,7 +6,7 @@ This GitHub repository contains an Excel dashboard project aimed at providing in
 Files Included
 Excel_Dashboard.xlsx: This Excel file contains the dashboard with visualizations and data analysis.
 BusinessNeeds.docx: This Word document outlines the business requirements and stakeholders' involvement in the project.
-Dashboard Overview
+
 The Excel dashboard provides a comprehensive overview of road safety metrics, including total casualties post-accident, casualties by severity, and casualties by vehicle type. It enables stakeholders to visualize key insights and trends, facilitating informed decision-making and prioritization of safety measures.
 
 Business Needs and Stakeholders
