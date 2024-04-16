@@ -7,7 +7,7 @@ Files Included
 Excel_Dashboard.xlsx: This Excel file contains the dashboard with visualizations and data analysis.
 BusinessNeeds.docx: This Word document outlines the business requirements and stakeholders' involvement in the project.
 
-The Excel dashboard provides a comprehensive overview of road safety metrics, including total casualties post-accident, casualties by severity, and casualties by vehicle type. It enables stakeholders to visualize key insights and trends, facilitating informed decision-making and prioritization of safety measures.
+The Excel dashboard provides a comprehensive overview of road safety metrics, including total casualties, casualties by severity, and casualties by vehicle type. It enables stakeholders to visualize key insights and trends, facilitating informed decision-making and prioritization of safety measures.
 
 Business Needs and Stakeholders
 The accompanying Word document details the business needs driving the project and identifies the stakeholders involved. It outlines the primary objective of reducing road accidents and minimizing casualties through data-driven interventions. Key metrics such as total casualties post-accident and casualties by severity are crucial for understanding the impact of accidents and guiding safety measures. Analyzing casualties by vehicle type provides insights into trends that can inform targeted safety initiatives and regulations. Additional analyses, including monthly trend analysis. Ultimately, the goal is to enhance road safety through informed decision-making and targeted interventions based on comprehensive data analysis.
